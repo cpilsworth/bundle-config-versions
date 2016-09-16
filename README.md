@@ -40,3 +40,11 @@ To version, run
 For an example of a versioned, timestamped pom:
 
     git checkout version-applied
+
+To see the configuraton for the service
+
+   open http://localhost:4503/system/console/configMgr/bndlversion.core.service.impl.PlatformConfiguration
+
+To see a page including a component that references the service
+
+   open http://localhost:4503/content/bndlversion/en.html

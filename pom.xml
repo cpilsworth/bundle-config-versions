@@ -19,7 +19,7 @@
     <groupId>bndlversion</groupId>
     <artifactId>test</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-20160916180401</version>
     <description>bndlversion</description>
     
     <modules>

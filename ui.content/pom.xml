@@ -23,7 +23,7 @@
     <parent>
         <groupId>bndlversion</groupId>
         <artifactId>test</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0-20160916180401</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -198,7 +198,7 @@
         <dependency>
             <groupId>bndlversion</groupId>
             <artifactId>test.core</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0-20160916180401</version>
         </dependency>
 
         <dependency>
